@@ -1,0 +1,26 @@
+html body {height:100%;
+    width:100%;}
+
+    main{height: 100%;
+    width:100%;
+    background: red; 
+display:flex;
+ }
+
+header{height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #c100fc, #b228d4, violet);
+    display:flex;
+    justify-content: left;
+    align-items: center;}
+
+
+    #sec1{height: 100%;
+    width: 100%;}
+    #sec2{height: 100%;
+    width: 100%;}
+    #sec3{height: 100%;
+    width: 100%;}
+    
+    img{height: 500px;
+    width: 500px;}
